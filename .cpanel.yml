@@ -2,4 +2,9 @@
 deployment:
         tasks:
                 - export DEPLOYPATH=/home/estatesu/public_html/
-                - /bin/cp -R * $DEPLOYPATH
+                - /bin/cp -R assets $DEPLOYPATH
+                - /bin/cp -R zen8 $DEPLOYPATH
+                - /bin/cp -R breck $DEPLOYPATH
+                - /bin/cp -R index.html $DEPLOYPATH
+                - /bin/cp -R robots.txt $DEPLOYPATH
+                - /bin/cp -R sitemap.xml $DEPLOYPATH
