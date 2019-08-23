@@ -1,4 +1,3 @@
-
-#Begin Attracta SEO Tools Sitemap. Do not remove
-sitemap: http://cdn.attracta.com/sitemap/5871915.xml.gz
-#End Attracta SEO Tools Sitemap. Do not remove
+Sitemap: https://www.estatesurf.com/sitemap.xml
+Sitemap: https://www.estatesurf.com/zen8/sitemap.xml
+Sitemap: https://www.estatesurf.com/breck/sitemap.xml
