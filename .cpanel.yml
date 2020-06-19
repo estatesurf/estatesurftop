@@ -4,6 +4,7 @@ deployment:
                 - export DEPLOYPATH=/home/estatesu/public_html/
                 - /bin/cp -R assets $DEPLOYPATH
                 - /bin/cp -R zen8 $DEPLOYPATH
+                - /bin/cp -R 2929lawrence $DEPLOYPATH
                 - /bin/cp -R breck $DEPLOYPATH
                 - /bin/cp -R gplirallc $DEPLOYPATH
                 - /bin/cp -R jags $DEPLOYPATH
