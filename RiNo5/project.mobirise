@@ -50,7 +50,9 @@
     "imageResize": false,
     "robotsSwitcher": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "file:///Users/mark.lindner/TEMP/r54"
   },
   "pages": {
     "index.html": {
