@@ -1375,6 +1375,28 @@ a {
   text-align: left;
   color: #232323;
 }
+.cid-sdBa7wrPjg {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-image: url("../../../assets/images/appsfins-1280x1008.jpg");
+}
+@media (min-width: 1500px) {
+  .cid-sdBa7wrPjg .container {
+    max-width: 1400px;
+  }
+}
+.cid-sdBa7wrPjg .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-sdBa7wrPjg .card-wrapper {
+  margin-top: 3rem;
+}
+.cid-sdBa7wrPjg .row {
+  justify-content: center;
+}
 .cid-sdAjWy8CPb {
   padding-top: 6rem;
   padding-bottom: 6rem;
